@@ -1,0 +1,12 @@
+name: warehouse_env
+channels:
+  - defaults
+  - conda-forge
+  - plotly
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - matplotlib
+  - scipy
+  - streamlit
